@@ -181,10 +181,10 @@ export default function Home() {
 						<section className="mx-auto max-w-5xl px-6 py-20">
 							<div className="mb-12 text-center">
 								<p className="text-[10px] uppercase tracking-[.3em] text-rose">
-									Little pieces of us
+									Little pieces of you
 								</p>
 								<h2 className="serif mt-4 text-4xl sm:text-5xl">
-									Our memories<span className="italic text-rose">.</span>
+									Your memories<span className="italic text-rose">.</span>
 								</h2>
 								<p className="mt-4 text-xs text-muted">
 									Beberapa momen yang ingin disimpan lebih lama.
